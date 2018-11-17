@@ -34,8 +34,9 @@ function NavBar(props) {
           </div>
           <div className="high-priority">
               <h3 class="priority-tab">
-                  Very High Priority
+                  Immediate Priority
               </h3>
+          </div>
           <div className="high-priority">
               <h3 class="priority-tab">
                   High Priority
